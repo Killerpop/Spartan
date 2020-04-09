@@ -4,6 +4,9 @@ http://www.haxkur.ml/     https://www.haxkur.ml/2020/04/spartan-hid.html
 # Spartan By: Gustavo Zaballa Killerpop
 
 
+<img src="https://1.bp.blogspot.com/-XNe3FB5QxJM/Xo9e8GhEuhI/AAAAAAAAB9Y/1bPnSGgvfMUvc2zMYdFdHiIJWimbonHpgCLcBGAsYHQ/s1600/02.png" />
+
+
 Spartan is a tool completely dedicated to HID attacks with Arduino
 devices on Windows machines in Spanish. Its use is entirely the 
 responsibility of the owner.
