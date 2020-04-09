@@ -70,7 +70,7 @@ print("""\x1b[0;34m
 \x1b[0;31m-5 \x1b[0;34mExtract all passwords W8 and W10                             \x1b[0;31m-10 \x1b[0;34mString Converter 
 \x1b[0;31mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 """)
-eleccion = int(input("\x1b[0;34mSpartan >>"))
+eleccion = int(input("\x1b[0;34mSpartanHID >>"))
 #_____________________________________________________________________________
 #_____________________________________________________________________________
 if eleccion == 1:
