@@ -1,4 +1,4 @@
-<img src="http://2.bp.blogspot.com/-AEMFuusurAY/WmZzIWGkrmI/AAAAAAAAAnk/e2dyPk_bRfgjYhSOHufT4EsIerBZmHGIwCK4BGAYYCw/s326/sdcdc.png" />
+<img src="https://1.bp.blogspot.com/-EkUHTqUCQ3Y/XdI1qZjrR1I/AAAAAAAABc8/aDjXNBNCMRAvLGu-dpW8XepYyy_-YRVvACK4BGAYYCw/s792/cubo-logo-new-no-back-1024x905.png" />
 http://www.haxkur.ml/     https://www.haxkur.ml/2020/04/spartan-hid.html 
 
 # Spartan By: Gustavo Zaballa Killerpop
