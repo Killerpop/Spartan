@@ -56,10 +56,10 @@ print("""\x1b[0;34m
  \x1b[0;31m 
  This tool is created for didactic purposes and not to commit a crime. 
  Haxk.Ur does not take care of any malicious use of the tool. 
- We recommend the use in a controlled laboratory. Staff Haxk.UR
+ We recommend the use in a controlled laboratory. Staff GreyHelmet SEC
  \x1b[0;31m                
 							\x1b[1;36m  by Gustavo Zaballa (Killerpop)      
-							\x1b[1;36m  https://www.haxkur.ml/
+							\x1b[1;36m  https://www.greyhelmet.ml/
 							\x1b[1;36m  1.0.3V. \x1b[0;37m
       
 \x1b[0;31mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
