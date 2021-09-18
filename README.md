@@ -1,7 +1,7 @@
 <img src="https://1.bp.blogspot.com/-lV0q_RogHz0/XyhioZEr6yI/AAAAAAAACog/aUBE3KRem1IA3y03-I5sYSLCWA_ZsHJcwCLcBGAsYHQ/s640/dfbcbdf.png" />
 http://www.greyhelmet.net/     https://www.greyhelmet.net/2020/04/spartan-hid.html 
 
-# Spartan By: Gustavo Zaballa Killerpop
+# Spartan By: G.Zaballa Killerpop
 
 
 <img src="https://1.bp.blogspot.com/-XNe3FB5QxJM/Xo9e8GhEuhI/AAAAAAAAB9Y/1bPnSGgvfMUvc2zMYdFdHiIJWimbonHpgCLcBGAsYHQ/s1600/02.png" />
@@ -24,4 +24,4 @@ Commands:
 	chmod +x Spartan.py
 	./Spartan.py
 
-                          By: Staff Haxk.Ur
+                          By: Staff GreyHelmetSec
